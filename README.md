@@ -34,7 +34,12 @@
 </div>
 
 
+
+
 <p align="center">
+
+**Social Media:**
+
   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
 
@@ -97,7 +102,6 @@ Here are some ideas to get you started:
 <!-- - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help; -->
 
-**Social Media:**
 
 <!-- #### Social Media -->
 <!-- [![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb) -->
