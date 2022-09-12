@@ -70,22 +70,22 @@
 </a> -->
 
 <!-- DISCORD -->
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="assets/discord.svg" />
+<!-- <a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="assets/discord.svg" /> -->
 </a>
 <!-- Twitter -->
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="assets/twitter.svg" />
+<!-- <a href="https://twitter.com/abhisheknaiidu">
+  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="assets/twitter.svg" /> -->
 </a>
 <!-- linkedin -->
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="assets/linkedin.svg" />
-</a>
+</a> -->
 <!-- 
 <h1 align="center">Hi, I'm <a href="https://martin.dev">Martin</a> 👋</h1>
 
 <p align="center"> -->
-<!--   <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a> -->
+  <!-- <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a> -->
   <!-- <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a> -->
 <!--   <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" title="npm" height="48" width="48" src="assets/npm.svg"></a> -->
 </p>
@@ -133,8 +133,7 @@ Here are some ideas to get you started:
 <!-- ⏳ Longest streak is 10 days -->
 
 <!-- TODO-IST:END -->
-
- <img align="right" alt="GIF" src="code.gif" width="250" height="160" />
+ <img align="right" alt="GIF" src="code.gif" width="255" height="165" />
 
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
