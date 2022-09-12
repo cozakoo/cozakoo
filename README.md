@@ -1,10 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img height="50" alt="Hi, I´m Martin" src="images/personal_note.svg" />
   <br />
-</div>
+</div> -->
 
 <!-- Social -->
-<table width="100%" align="center">
+<!-- <table width="100%" align="center">
 <tr>
   <td align="center">
   <div style="text-align: center; margin:0px; ">
@@ -31,7 +31,7 @@
   </td>
 </tr>
 </table>
-</div>
+</div> -->
 
 ---
 
@@ -46,7 +46,6 @@
 </p>
 
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
 
 
 **Currently working with:**
