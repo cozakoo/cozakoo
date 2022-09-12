@@ -135,18 +135,19 @@ Here are some ideas to get you started:
 <!-- TODO-IST:END -->
  <img align="right" alt="GIF" src="code.gif" width="255" height="165" />
 
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
-- 💬 ask me about anything, i am happy to help;
+<!-- - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💬 ask me about anything, i am happy to help; -->
 
 **Social Media:**
 
-[![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb)
-[![GitHub](icons/github.png)](https://github.com/hussainweb)
-[![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb)
-[![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
-[![Twitter](icons/twitter.png)](https://twitter.com/hussainweb)
-[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/hussainweb/)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/hussain.web/)
+#### Social Media
+<!-- [![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb) -->
+[![GitHub](icons/github.png)](https://github.com/cozakoo)
+<!-- [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb) -->
+<!-- [![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb) -->
+<!-- [![Twitter](icons/twitter.png)](https://twitter.com/hussainweb) -->
+[![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/martin-arcos)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/martin_arcos_/?hl=es-la)
 
 **Currently working with:**
 
