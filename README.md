@@ -51,12 +51,7 @@
 | <a href="https://github.com/LittleBamBoo166"><img width="24" src="https://avatars.githubusercontent.com/u/83818933?s=24&u=4772740b249f5557a9b6061586cb8eeffaf0ef8e&v=4" alt="LittleBamBoo166" /> LittleBamBoo166</a> |9/7/2022, 8:30:51 AM|Hi, I bring you some banana milkshake| -->
 <!-- /Guestbook -->
 
-<!-- Footer -->
 
-<div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
-<br />
 
 <!-- ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg) -->
 
@@ -70,9 +65,9 @@
 </div>
 
 <!-- INSTAGRAM -->
-<a href="https://www.instagram.com/abhisheknaiidu/">
+<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="icons/instagram.png" />
-</a>
+</a> -->
 
 <!-- DISCORD -->
 <a href="https://discord.gg/XTW52Kt">
@@ -129,18 +124,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🚧 **my todoist stats:**
-
+<!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
 
-🏆 7,995 Karma Points  
-🌸 Completed 0 tasks today  
-✅ Completed 673 tasks so far  
-⏳ Longest streak is 10 days
+<!-- 🏆 7,995 Karma Points   -->
+<!-- 🌸 Completed 0 tasks today   -->
+<!-- ✅ Completed 673 tasks so far   -->
+<!-- ⏳ Longest streak is 10 days -->
 
 <!-- TODO-IST:END -->
 
- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="code.gif" width="250" height="160" />
 
 - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help;
@@ -235,3 +229,9 @@ _____________|','   ///_/-------------/   |
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- Footer -->
+
+<div align="center">
+
+<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
+<br />
