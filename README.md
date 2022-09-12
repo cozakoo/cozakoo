@@ -1,5 +1,3 @@
-<!-- <h1 style='text-align: center;'>Hi, I'm <a href="https://martin.dev">Martin</a> -->
-
 <div align="center">
   <img height="50" alt="Hi, I´m Martin" src="images/personal_note.svg" />
   <br />
@@ -8,7 +6,6 @@
 <!-- Social -->
 <table width="100%" align="center">
 <tr>
-
   <td align="center">
   <div style="text-align: center; margin:0px; ">
   <a href="https://linkbe.me/MartinArcos123_">
@@ -22,7 +19,6 @@
   </p>
   </div>
   </td>
-  
   <td align="center">
   <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
   <strong>Listen to cool music</strong>
@@ -33,61 +29,24 @@
   </a>
   </p>
   </td>
-  
 </tr>
 </table>
-
-<!-- <div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a>
-</div> -->
-
-<!-- Guestbook -->
-<!-- | Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/BrunnerLivio"><img width="24" src="https://avatars.githubusercontent.com/u/9899423?s=24&u=5d1170c99cdf11065093d124bd2c87ee1f3e097e&v=4" alt="BrunnerLivio" /> BrunnerLivio</a> |9/8/2022, 8:05:16 PM|@cheshire137 @tomthorogood Github employees in my Guestbook? Ok now it's the time for my elevator pitch.<br />WordArt support + Clippy as Github CoPilot. That is all I am asking for<br /><br /> @cheshire137 Is that some new Rammstein lyrics?|
-| <a href="https://github.com/tomthorogood"><img width="24" src="https://avatars.githubusercontent.com/u/1092941?s=24&u=0f30db417b762baf0010806a0ced3c42fb0b06fc&v=4" alt="tomthorogood" /> tomthorogood</a> |9/8/2022, 7:39:23 PM|@BrunnerLivio i can't speak on behalf of the copilot folks, but i personally love this idea. clippy needs to make a comeback and copilot seems like a natural habitat 📎.<br />i was sampling random profiles to check for some things in the general user population when i found yours, thanks for the trip back through time!|
-| <a href="https://github.com/cheshire137"><img width="24" src="https://avatars.githubusercontent.com/u/82317?s=24&u=fb33595002a6f7e10bea343b46debe5a506f549a&v=4" alt="cheshire137" /> cheshire137</a> |9/8/2022, 5:19:32 PM|I<br />I wrote<br />I wrote this<br />I wrote this to<br />I wrote this to take<br />I wrote this to take up<br />I wrote this to take up space.<br />Love your guestbook, btw|
-| <a href="https://github.com/tomthorogood"><img width="24" src="https://avatars.githubusercontent.com/u/1092941?s=24&u=0f30db417b762baf0010806a0ced3c42fb0b06fc&v=4" alt="tomthorogood" /> tomthorogood</a> |9/8/2022, 5:13:56 PM|this is the greatest github profile i've ever seen.|
-| <a href="https://github.com/LittleBamBoo166"><img width="24" src="https://avatars.githubusercontent.com/u/83818933?s=24&u=4772740b249f5557a9b6061586cb8eeffaf0ef8e&v=4" alt="LittleBamBoo166" /> LittleBamBoo166</a> |9/7/2022, 8:30:51 AM|Hi, I bring you some banana milkshake| -->
-<!-- /Guestbook -->
-
-
-
-<!-- ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg) -->
-
-<!-- <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" /> -->
-<!-- "margin-right: whatever;" -->
-<!-- <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" /> -->
-
 </div>
 
-<!-- INSTAGRAM -->
-<!-- <a href="https://www.instagram.com/abhisheknaiidu/">
+
+<p align="center">
+  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+  <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+
+ <a href="https://www.instagram.com/abhisheknaiidu/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="icons/instagram.png" />
-</a> -->
-
-<!-- DISCORD -->
-<!-- <a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="assets/discord.svg" /> -->
 </a>
-<!-- Twitter -->
-<!-- <a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="assets/twitter.svg" /> -->
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="assets/discord.svg" />
 </a>
-<!-- linkedin -->
-<!-- <a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="assets/linkedin.svg" />
-</a> -->
-<!-- 
-<h1 align="center">Hi, I'm <a href="https://martin.dev">Martin</a> 👋</h1>
-
-<p align="center"> -->
-  <!-- <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a> -->
-  <!-- <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a> -->
-<!--   <a href="https://www.npmjs.com/~peterthehan"><img alt="npm" title="npm" height="48" width="48" src="assets/npm.svg"></a> -->
+</a>
 </p>
 
 <!-- <p align="center"> -->
@@ -196,7 +155,7 @@ Here are some ideas to get you started:
 <!-- [How did I build this?](https://youtu.be/UqNbBe3lVCI) -->
 
 ---
-
+<!-- 
 ``````
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -218,7 +177,7 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ``````
-
+ -->
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <div align="center">
