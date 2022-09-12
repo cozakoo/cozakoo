@@ -1,42 +1,7 @@
-<!-- <div align="center">
-  <img height="50" alt="Hi, I´m Martin" src="images/personal_note.svg" />
-  <br />
-</div> -->
-
-<!-- Social -->
-<!-- <table width="100%" align="center">
-<tr>
-  <td align="center">
-  <div style="text-align: center; margin:0px; ">
-  <a href="https://linkbe.me/MartinArcos123_">
-  <strong>Visit my personal website </strong>
-  <br />
-  <br />
-  <br />
-  <p>
-  <img alt="Globe" height="80" src="images/globe.gif">
-  </a>
-  </p>
-  </div>
-  </td>
-  <td align="center">
-  <a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
-  <strong>Listen to cool music</strong>
-  <br />
-  <br />
-  <p>
-  <img height="100" alt="Music" src="images/music.gif">
-  </a>
-  </p>
-  </td>
-</tr>
-</table>
-</div> -->
 
 ---
 
-<h1 align="center">My social networks
- </h1>
+<h1 align="center">My Social Networks 👇🏻 </h1>
 <p align="center">
   <a href="https://github.com/cozakoo"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
@@ -45,6 +10,8 @@
   <img  alt="Martin Arcos Instagram" height="48" width="48" src="icons/instagram.png" />
 </a>
 </p>
+
+---
 
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
