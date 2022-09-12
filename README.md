@@ -35,6 +35,8 @@
 
 ---
 
+ <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
+
 **Social Media:**
 
 <p align="center">
@@ -50,22 +52,17 @@
 <a href="https://www.linkedin.com/in/abhisheknaiidu/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="assets/linkedin.svg" />
 </a>
-</p>
-
-<p align="center">
   <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
-  <a href="https://twitter.com/PeterTheHan"><img alt="Twitter" title="Twitter" height="48" width="48" src="assets/twitter.svg"></a>
-  <a href="https://youtube.com/channel/UC5QVwln-tycBa-CoB88a7wA"><img alt="YouTube" title="YouTube" height="48" width="48" src="assets/youtube.svg"></a>
-</p>
-
-<!-- TODO-IST:END -->
- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-#### Social Media
 
 [![GitHub](icons/github.png)](https://github.com/cozakoo)
 [![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/martin-arcos)
 [![Instagram](icons/instagram.png)](https://www.instagram.com/martin_arcos_/?hl=es-la)
+
+</p>
+
+
+
+
 
 **Currently working with:**
 
