@@ -140,7 +140,7 @@ Here are some ideas to get you started:
 
 **Social Media:**
 
-#### Social Media
+<!-- #### Social Media -->
 <!-- [![Drupal](icons/drupal.png)](https://www.drupal.org/u/hussainweb) -->
 [![GitHub](icons/github.png)](https://github.com/cozakoo)
 <!-- [![GitLab](icons/gitlab.png)](https://gitlab.com/hussainweb) -->
@@ -186,14 +186,14 @@ Here are some ideas to get you started:
 <!-- <a href="https://laravel.com/" title="Laravel"><img src="icons/laravel.png" /></a> -->
 <!-- <a href="https://wordpress.org/" title="WordPress"><img src="icons/wordpress.png" /></a> -->
 <!-- <a href="https://www.vagrantup.com/" title="Vagrant"><img src="icons/vagrant.png" /></a> -->
-S
+<!-- S -->
 **Currently focused on building:**
 
-- [axl-template](https://github.com/axelerant/axl-template)
-- [db-docker](https://github.com/axelerant/db-docker)
-- [drupalqa](https://github.com/hussainweb/drupalqa)
+- [Web portfolio](https://github.com/cozakoo/AP_MaquetadoEstatico_HTML.git)
+<!-- - [db-docker](https://github.com/axelerant/db-docker) -->
+<!-- - [drupalqa](https://github.com/hussainweb/drupalqa) -->
 
-[How did I build this?](https://youtu.be/UqNbBe3lVCI)
+<!-- [How did I build this?](https://youtu.be/UqNbBe3lVCI) -->
 
 ---
 
@@ -221,10 +221,13 @@ _____________|','   ///_/-------------/   |
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo)](https://github.com/anuraghazra/github-readme-stats) -->
 
+<div style='tex-align:center;'>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+ </div>
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&theme=tokyonight) -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo)](https://github.com/anuraghazra/github-readme-stats) -->
