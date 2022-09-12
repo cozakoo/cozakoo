@@ -133,7 +133,7 @@ Here are some ideas to get you started:
 <!-- ⏳ Longest streak is 10 days -->
 
 <!-- TODO-IST:END -->
- <img align="right" alt="GIF" src="code.gif" width="255" height="165" />
+ <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <!-- - 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
 - 💬 ask me about anything, i am happy to help; -->
