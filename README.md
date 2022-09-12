@@ -35,32 +35,17 @@
 
 ---
 
- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
-
-**Social Media:**
-
+<h1 align="center">Social Media: </h1>
 <p align="center">
-  <a href="https://github.com/peterthehan"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+  <a href="https://github.com/cozakoo"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
   <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
 
- <a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="icons/instagram.png" />
+ <a href="https://www.instagram.com/martin_arcos_/?hl=es-la">
+  <img  alt="Martin Arcos Instagram" height="48" width="48" src="icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="assets/discord.svg" />
-</a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="assets/linkedin.svg" />
-</a>
-  <a href="https://discord.gg/WjEFnzC"><img alt="Discord" title="Discord" height="48" width="48" src="assets/discord.svg"></a>
-
-[![GitHub](icons/github.png)](https://github.com/cozakoo)
-[![LinkedIn](icons/linkedin.png)](www.linkedin.com/in/martin-arcos)
-[![Instagram](icons/instagram.png)](https://www.instagram.com/martin_arcos_/?hl=es-la)
-
 </p>
 
-
+ <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 
 
