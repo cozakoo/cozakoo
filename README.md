@@ -26,15 +26,8 @@
 
 [<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/)
 
-[<img align="left" src="icons/angular.png" />](https://angular.io/)
-
 [<img align="left" src="icons/python.png" />](https://www.python.org/)
 
-[<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
-
-[<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
-
-[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
 
@@ -44,7 +37,17 @@
 
 <!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
 
-<br>
+**Currently working with the frameworks**
+
+[<img align="left" src="icons/angular.png" />](https://angular.io/)
+
+[<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
+
+**Currently working with databases:**
+
+[<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
+
+[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 
 **Learning:**
 
