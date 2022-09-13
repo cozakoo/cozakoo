@@ -55,7 +55,9 @@
 
 [<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 
-**Learning:**
+<br>
+<br>
+#### Learning:
 
 **Previously worked with:**
 
