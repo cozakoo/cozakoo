@@ -18,15 +18,17 @@
 
 **Currently working with:**
 
+[<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 
+[<img align="left" src="icons/CSS3.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/CSS)
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-<a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
-<a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
-<a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
-<a href="https://en.wikipedia.org/wiki/JavaScript" title="JavaScript"><img src="icons/javascript.png" /></a>
-<a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
-<a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
+[<img align="left" src="icons/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
+
+[<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/)
+
+[<img align="left" src="icons/angular.png" />](https://angular.io/)
+
+[<img align="left" src="icons/python.png" />](https://www.python.org/)
 
 [<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
 
@@ -36,8 +38,14 @@
 
 [<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/)
 
-[<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
-[<img align="left" src="icons/CSS3.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img align="left" src="icons/git.png" />](https://git-scm.com/)
+
+[<img align="left" src="icons/github.png" />](https://github.com/)
+
+[<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
+
+
+
 
 
 
@@ -49,9 +57,12 @@
 
 **Previously worked with:**
 
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+
+
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
-<a href="https://angular.io/" title="Angular"><img src="icons/angular.png" /></a>
+
 <a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
 
 **Currently focused on building:**
