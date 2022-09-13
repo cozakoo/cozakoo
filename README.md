@@ -15,8 +15,18 @@
 
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
+<!-- **Currently working with:** -->
+##### Currently working with:
 
-**Currently working with the languages:**
+[<img align="left" src="icons/git.png" />](https://git-scm.com/)
+
+[<img align="left" src="icons/github.png" />](https://github.com/)
+
+[<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
+
+<br>
+
+##### Currently working with the languages:
 
 [<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 
@@ -29,13 +39,7 @@
 [<img align="left" src="icons/python.png" />](https://www.python.org/)
 
 
-[<img align="left" src="icons/git.png" />](https://git-scm.com/)
-
-[<img align="left" src="icons/github.png" />](https://github.com/)
-
-[<img align="" src="icons/vscode.png" />](https://code.visualstudio.com/)
-
-<!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
+<!-- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
 
 **Currently working with the frameworks**
 
