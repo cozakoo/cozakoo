@@ -24,7 +24,7 @@
 
 
 
-<a href="https://www.php.net/" title="PHP"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" width="60" height="32" /></a>
+<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
