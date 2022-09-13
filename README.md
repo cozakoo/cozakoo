@@ -1,7 +1,7 @@
 
 ---
 
-<h1 align="center" style='color: #8758FF;'>Hi, I´m Martin. Welcome to my profile</h1>
+<h1 align="center" backgr style="color: #8758FF;">👨🏻‍💻Hi, I´m Martin. Welcome to my profile👋🏻</h1>
 
 
 ---
