@@ -57,9 +57,10 @@
 
 <br>
 <br>
-#### Learning:
 
-**Previously worked with:**
+### Learning:
+
+#### Previously worked with:
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
 
