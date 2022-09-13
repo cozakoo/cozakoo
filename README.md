@@ -1,6 +1,11 @@
 
 ---
-<h1 align="center">My Social Networks 👇🏻 </h1>
+
+<h1 align="center" style='color: #8758FF;'>Hi, I´m Martin. Welcome to my profile</h1>
+
+
+---
+<h1 align="center" style='color: #5CB8E4'>My Social Networks 👇🏻 </h1>
 <p align="center">
 <a href="https://github.com/cozakoo"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
 <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
@@ -92,6 +97,8 @@
 
 ---
 
+<!-- 
+
 ``````
                              \\\\\\\
                             \\\\\\\\\\\\
@@ -113,16 +120,14 @@ _____________,'      ,',_____|      |    | |
 _____________|','   ///_/-------------/   |
               |===========,'
 ``````
-
+ -->
+ 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
 
 <div align="center">
-
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
