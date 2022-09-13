@@ -16,7 +16,7 @@
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 
-**Currently working with:**
+**Currently working with the languages:**
 
 [<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 
@@ -40,12 +40,13 @@
 
 [<img align="left" src="icons/github.png" />](https://github.com/)
 
-[<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
+[<img align="" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
 <!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
 
+<br>
 
-#### Learning:
+**Learning:**
 
 **Previously worked with:**
 
