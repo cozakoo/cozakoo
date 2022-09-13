@@ -16,7 +16,7 @@
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 <!-- **Currently working with:** -->
-##### Currently working with:
+#### Currently working with:
 
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
 
@@ -26,7 +26,7 @@
 
 <br>
 
-##### Currently working with the languages:
+#### Currently working with the languages:
 
 [<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
 
