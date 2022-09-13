@@ -36,8 +36,6 @@
 
 [<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 
-[<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/)
-
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
 
 [<img align="left" src="icons/github.png" />](https://github.com/)
@@ -48,7 +46,7 @@
 
 
 
-
+<br>
 --- 
 
 <!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
