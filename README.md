@@ -1,21 +1,17 @@
-
 ---
-
 <h1 align="center">My Social Networks 👇🏻 </h1>
 <p align="center">
-  <a href="https://github.com/cozakoo"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
-  <a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
+<a href="https://github.com/cozakoo"><img alt="GitHub" title="GitHub" height="48" width="48" src="assets/github.svg"></a>
+<a href="https://www.linkedin.com/in/martin-arcos"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" src="assets/linkedin.svg"></a>
 
- <a href="https://www.instagram.com/martin_arcos_/?hl=es-la">
-  <img  alt="Martin Arcos Instagram" height="48" width="48" src="icons/instagram.png" />
+<a href="https://www.instagram.com/martin_arcos_/?hl=es-la">
+<img  alt="Martin Arcos Instagram" height="48" width="48" src="icons/instagram.png" />
 </a>
 </p>
-
 ---
 
  <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
-<!-- **Currently working with:** -->
 #### Currently working with:
 
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
@@ -24,6 +20,7 @@
 
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
+<br>
 <br>
 
 #### Currently working with the languages:
@@ -38,16 +35,19 @@
 
 [<img align="left" src="icons/python.png" />](https://www.python.org/)
 
+<br>
+<br>
 
-<!-- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
-
-**Currently working with the frameworks**
+#### Currently working with the frameworks
 
 [<img align="left" src="icons/angular.png" />](https://angular.io/)
 
 [<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
 
-**Currently working with databases:**
+<br>
+<br>
+
+#### Currently working with databases:
 
 [<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
 
@@ -58,7 +58,6 @@
 **Previously worked with:**
 
 <a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
-
 
 <a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
 <a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
