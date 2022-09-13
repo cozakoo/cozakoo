@@ -28,6 +28,19 @@
 <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.png" /></a>
 <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="icons/vscode.png" /></a>
 
+[<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
+
+[<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
+
+[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
+
+[<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/)
+
+[<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
+[<img align="left" src="icons/CSS3.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+
+
+
 
 <!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
 
