@@ -1,4 +1,8 @@
 
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="DiegoFabro's github stats" src="https://github-readme-stats.vercel.app/api?username=DiegoFabro&show_icons=true&hide_border=true" />
+  </a>
+
 ---
 
 <h1 align="center">My Social Networks 👇🏻 </h1>
@@ -18,7 +22,9 @@
 
 **Currently working with:**
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+
+
+<a href="https://www.php.net/" title="PHP"><img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"/></a>
 <a href="https://www.python.org/" title="Python"><img src="icons/python.png" /></a>
 <a href="https://git-scm.com/" title="Git"><img src="icons/git.png" /></a>
 <a href="https://github.com/" title="GitHub"><img src="icons/github.png" /></a>
