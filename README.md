@@ -22,7 +22,7 @@
 
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
-[<img align="left" src="icons/bootstrap.png" width="32" height="25"/>](https://www.java.com/es/download/help/whatis_java.html)
+[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
 
 [<img align="left" src="icons/jquery.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
 
