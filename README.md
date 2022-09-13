@@ -42,17 +42,10 @@
 
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
-
-
-
-
-<br>
---- 
-
 <!-- INCORPORAR POSTRGRES- BASH- C - C##, .NET - DJANGO - HTML - CSS - JAVA -->
-<br>
 
-**Learning:**
+
+#### Learning:
 
 **Previously worked with:**
 
