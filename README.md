@@ -22,6 +22,11 @@
 
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
+[<img align="left" src="icons/bootstrap.png" width="32" height="25"/>](https://www.java.com/es/download/help/whatis_java.html)
+
+[<img align="left" src="icons/jquery.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
+
+
 <br>
 <br>
 
@@ -62,14 +67,26 @@
 
 #### Previously worked with:
 
-<a href="https://www.php.net/" title="PHP"><img src="icons/php.png" /></a>
+[<img align="left" src="icons/php.png" />](https://www.php.net/)
 
-<a href="https://dotnet.microsoft.com/" title="dotNet"><img src="icons/dotnet.png" /></a>
-<a href="http://csharp.net/" title="C#"><img src="icons/csharp.png" /></a>
+[<img align="left" src="icons/c.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
 
-<a href="https://reactjs.org/" title="React"><img src="icons/react.png" /></a>
+[<img align="left" src="icons/csharp.png" />](http://csharp.net/)
 
-**Currently focused on building:**
+[<img align="left" src="icons/dotnet.png" />](https://dotnet.microsoft.com/)
+
+[<img align="left" src="icons/react.png" />](https://reactjs.org/)
+
+[<img align="left" src="icons/bash.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/Bash)
+
+[<img align="left" src="icons/java.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
+
+
+
+<br>
+<br>
+
+#### Currently focused on building:
 
 - [Web portfolio](https://github.com/cozakoo/AP_MaquetadoEstatico_HTML.git)
 
