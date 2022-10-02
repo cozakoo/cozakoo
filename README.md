@@ -19,7 +19,11 @@
 
  <img align="right" alt="GIF" src="code.gif" width="400" height="220" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical)
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="60%" align="right" alt="DiegoFabro's github stats" src="https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&hide_border=true&theme=radical" />
+  </a>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical) -->
 
 
 #### Currently working with:
