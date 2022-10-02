@@ -19,6 +19,13 @@
 
  <img align="right" alt="GIF" src="code.gif" width="400" height="220" />
 
+  <a href="https://github.com/onimur/handle-path-oz">
+    <img width="55%" align="right" alt="cozakoo's github stats" src="https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&hide_border=true&theme=radical" />
+  </a>
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical) -->
+
+
 #### Currently working with:
 
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
