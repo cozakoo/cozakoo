@@ -27,9 +27,10 @@
 
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
-[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
+[<img align="left" src="icons/figma.png" width="32" height="32"/>](https://www.hiberus.com/crecemos-contigo/ventajas-de-usar-figma-como-herramienta-de-diseno-ui/)
 
-[<img align="left" src="icons/jquery.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
+[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://getbootstrap.com/)
+
 
 
 <br>
@@ -47,6 +48,9 @@
 
 [<img align="left" src="icons/python.png" />](https://www.python.org/)
 
+[<img align="left" src="icons/ruby.png" width="32" height="32"/>](https://www.ruby-lang.org/es/)
+
+
 <br>
 <br>
 
@@ -56,14 +60,14 @@
 
 [<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
 
+[<img align="left" src="icons/rails.png" width="32" height="32"/>](https://rubyonrails.org/)
+
 <br>
 <br>
 
 #### Currently working with databases:
 
 [<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
-
-[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 
 <br>
 <br>
@@ -86,6 +90,15 @@
 
 [<img align="left" src="icons/java.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
 
+[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
+
+[<img align="left" src="icons/mysql.png" width="32" height="32"/>](https://www.mysql.com/)
+
+[<img align="left" src="icons/jquery.png" width="32" height="32"/>](https://jquery.com/)
+
+[<img align="left" src="icons/node.png" width="32" height="32"/>](https://nodejs.org/es/)
+
+[<img align="left" src="icons/docker.png" width="32" height="32"/>](https://www.docker.com/)
 
 
 <br>
@@ -97,31 +110,6 @@
 
 ---
 
-<!-- 
-
-``````
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-``````
- -->
- 
 <div align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical)
