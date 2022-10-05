@@ -3,6 +3,7 @@
 
 <h1 align="center" backgr style="color: #8758FF;">👨🏻‍💻Hi, I´m Martin. Welcome to my profile👋🏻</h1>
 
+[![@cozakoo's Holopin board](https://holopin.io/api/user/board?user=cozakoo)](https://holopin.io/@cozakoo)
 
 ---
 <h1 align="center" style='color: #5CB8E4'>My Social Networks 👇🏻 </h1>
@@ -119,6 +120,4 @@
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
- 
-[![@cozakoo's Holopin board](https://holopin.io/api/user/board?user=cozakoo)](https://holopin.io/@cozakoo)
  
