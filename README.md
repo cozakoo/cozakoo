@@ -3,6 +3,8 @@
 
 <h1 align="center" backgr style="color: #8758FF;">👨🏻‍💻Hi, I´m Martin. Welcome to my profile👋🏻</h1>
 
+[![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
+
 [![@cozakoo's Holopin board](https://holopin.io/api/user/board?user=cozakoo)](https://holopin.io/@cozakoo)
 
 ---
