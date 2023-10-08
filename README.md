@@ -5,8 +5,6 @@
 
 [![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
 
-[![@cozakoo's Holopin board](https://holopin.io/api/user/board?user=cozakoo)](https://holopin.io/@cozakoo)
-
 ---
 <h1 align="center" style='color: #5CB8E4'>My Social Networks 👇🏻 </h1>
 <p align="center">
