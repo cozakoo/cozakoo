@@ -3,26 +3,22 @@
 
 
 <h1 align="center" backgr style="color: #8758FF;">👨🏻‍💻Hi, I´m Martin!!!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile....&hearts;++;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile.......;++;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3"></a>
 
 [![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
-<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h3>
-
+<h4 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h4>
 <p align="center"> 
  <a href="https://www.linkedin.com/in/martin-arcos">
   <img alt="Martin arcos linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png">
  </a>
-
  <a href="https://www.instagram.com/martin_arcos_/?hl=es-la">
   <img alt="Martin Arcos Instagram" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
  </a>
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
  <!-- <img align="right" alt="GIF" src="code.gif" width="500" height="320" />-->
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
