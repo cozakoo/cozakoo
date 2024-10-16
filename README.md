@@ -5,7 +5,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
+<!--
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil.......;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3">
+-->
 
 [![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
 
@@ -90,7 +93,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+<!--
+
 <div align="center">
 <img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
 <br />
- 
+--> 
