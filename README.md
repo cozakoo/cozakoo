@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h1 align="center" backgr style="color: #8758FF;">
-  👨🏻‍💻Hi, I´m Martin!!!
+  👨🏻‍💻Hola, soy Martín!!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+my+profile.......;++;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3">
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil.......;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3">
 
 [![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
 
@@ -13,7 +13,7 @@
 
 <h4 align="center" > 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
-  Connect with me
+  Contáctame
   <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 </h4>
 
@@ -28,9 +28,8 @@
  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-#### Currently working with:
+#### Herramientas:
 
-[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://getbootstrap.com/)
 [<img align="left" src="icons/git.png" />](https://git-scm.com/)
 [<img align="left" src="icons/github.png" />](https://github.com/)
 [<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
@@ -41,7 +40,7 @@
 
 <br>
 
-#### Currently working with the languages:
+#### Trabajo con los lenguajes:
 
 [<img align="left" src="icons/java.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
 [<img align="left" src="icons/python.png" />](https://www.python.org/)
@@ -55,7 +54,8 @@
 -->
 <br>
 
-#### Currently working with the frameworks
+#### Trabajo con los framewok.
+[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://getbootstrap.com/)
 [<img align="left" src="icons/angular.png" />](https://angular.io/)
 [<img align="left" src="icons/react.png" />](https://reactjs.org/)
 [<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
@@ -64,14 +64,14 @@
 
 <br>
 
-#### Currently working with databases:
+#### Trabajo con base de datos:
 [<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
 [<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
 <img align="left" src="icons/mondoDB.png" width="32" height="32" />
 
 <br>
 
-#### Previously worked with:
+#### He trabajado con:
 [<img align="left" src="icons/php.png" />](https://www.php.net/)
 [<img align="left" src="icons/c.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
 [<img align="left" src="icons/csharp.png" />](http://csharp.net/)
