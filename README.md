@@ -1,172 +1,101 @@
-<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  # Martín Arcos Vargas
-  ### Senior Software Developer | Arquitecto de Backend | Especialista en Django
+<h1 align="center" backgr style="color: #8758FF;">
+  👨🏻‍💻Hola, soy Martín!!!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-arcos)
-  [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/cozakoo)
-  [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:martinarcosvargas2@gmail.com)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square&logo=firefox&logoColor=white)](https://arcosvargas.com)
+<!--
 
-  **Desarrollador Fullstack con enfoque Backend** | Puerto Madryn, Argentina | Disponible para remoto
+<img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Bienvenido+a+mi+perfil.......;Analista+Programador;La+preparación+es+la+clave+del+éxito...<3">
+-->
 
+[![An image of @cozakoo's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/cozakoo)](https://holopin.io/@cozakoo)
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+
+<h4 align="center" > 
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+  Contáctame
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+</h4>
+
+<div align="center"> 
+  <a href="https://www.linkedin.com/in/martin-arcos"><img alt="Martin arcos linkedin" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+  <a href="https://www.instagram.com/martin_arcos_/?hl=es-la">
+    <img alt="Martin Arcos Instagram" src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png">
+ </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+ <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-## 🎯 Sobre mí
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+#### Herramientas:
 
-Senior Software Developer con **15+ años de experiencia** construyendo sistemas escalables en **Python y Django**. Especializado en arquitectura de backend, integración de APIs y optimización de bases de datos en producción.
+[<img align="left" src="icons/git.png" />](https://git-scm.com/)
+[<img align="left" src="icons/github.png" />](https://github.com/)
+[<img align="left" src="icons/vscode.png" />](https://code.visualstudio.com/)
 
-Actualmente en búsqueda activa de oportunidades como **Senior Backend Developer o Arquitecto de Software**, preferentemente en **Puerto Madryn o remoto**.
+<!---
+[<img align="left" src="icons/figma.png" width="32" height="32"/>](https://www.hiberus.com/crecemos-contigo/ventajas-de-usar-figma-como-herramienta-de-diseno-ui/)
+-->
 
-**Certificaciones académicas:**
-- 🎓 Analista Programador (UNPSJB, 2024)
-- 📚 Cursando: Licenciatura en Informática (UNPSJB) — Redes y Transmisión de Datos + Ingeniería de Software
+<br>
 
----
+#### Trabajo con los lenguajes:
 
-## 💼 Experiencia Profesional
+[<img align="left" src="icons/java.png" width="32" height="32"/>](https://www.java.com/es/download/help/whatis_java.html)
+[<img align="left" src="icons/python.png" />](https://www.python.org/)
+[<img align="left" src="icons/javascript.png" />](https://en.wikipedia.org/wiki/JavaScript)
+[<img align="left" src="icons/ruby.png" width="32" height="32"/>](https://www.ruby-lang.org/es/)
 
-### **Ministerio de Gobierno — Chubut**
-*Ingeniero de Software | Rawson*
+<!--
+[<img align="left" src="icons/html5.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/HTML)
+[<img align="left" src="icons/CSS3.png" width="32" height="32"/>](https://developer.mozilla.org/es/docs/Web/CSS)
+[<img align="left" src="icons/typescript.png" />](https://www.typescriptlang.org/) 
+-->
+<br>
 
-**Proyectos activos:**
-- **Autotransporte Terrestre** — Plataforma de gestión en refactorización activa
-  - Stack: Django, PostgreSQL, Bootstrap 5, JavaScript
-  - Patrón arquitectónico: MTV con service layer robusto
-  - Mejoras en N+1 queries, control de acceso basado en roles
+#### Trabajo con los framewok.
+[<img align="left" src="icons/bootstrap.png" width="32" height="32"/>](https://getbootstrap.com/)
+[<img align="left" src="icons/angular.png" />](https://angular.io/)
+[<img align="left" src="icons/react.png" />](https://reactjs.org/)
+[<img align="left" src="icons/django.png" width="32" height="32"/>](https://www.djangoproject.com/)
+<img align="left" src="icons/taildwind.png" width="32" height="18" />
+[<img align="left" src="icons/rails.png" width="32" height="32"/>](https://rubyonrails.org/)
 
-- **IGJ (Inspección General de Justicia)** — Sistema parchado y mejoras continuas
-  - Optimización de flujos críticos, migraciones de datos seguras
+<br>
 
-- **API RENAPER** — Integración activa con sistema nacional de identificación
-  - Wrapper de cliente dedicado, manejo de errores y timeouts
+#### Trabajo con base de datos:
+[<img align="left" src="icons/SQLite.png" width="32" height="32"/>](https://www.sqlite.org/index.html)
+[<img align="left" src="icons/postgreSQL.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/PostgreSQL)
+<img align="left" src="icons/mondoDB.png" width="32" height="32" />
 
-- **API Actas de Nacimiento** — En fase de prueba
-  - Integración con servicios externos, validación de datos
+<br>
 
-### **Autopartes Brass**
-*Founder & Full Stack Developer | Puerto Madryn (Freelance)*
+#### He trabajado con:
+[<img align="left" src="icons/php.png" />](https://www.php.net/)
+[<img align="left" src="icons/c.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/C_(lenguaje_de_programaci%C3%B3n))
+[<img align="left" src="icons/csharp.png" />](http://csharp.net/)
+[<img align="left" src="icons/dotnet.png" />](https://dotnet.microsoft.com/)
+[<img align="left" src="icons/bash.png" width="32" height="32"/>](https://es.wikipedia.org/wiki/Bash)
+[<img align="left" src="icons/mysql.png" width="32" height="32"/>](https://www.mysql.com/)
+[<img align="left" src="icons/jquery.png" width="32" height="32"/>](https://jquery.com/)
+[<img align="left" src="icons/node.png" width="32" height="32"/>](https://nodejs.org/es/)
+[<img align="left" src="icons/docker.png" width="32" height="32"/>](https://www.docker.com/)
 
-Sistema web de autogestión en **producción** desde 2023.
-- **Stack:** Python, Django, PostgreSQL, Nginx, Linux
-- Gestión de inventario, catálogo de autopartes, búsqueda avanzada
-- Deployed en servidor Linux con Nginx reverse proxy
-- 99.5% uptime en producción
-
----
-
-## 🛠️ Tech Stack
-
-### Backend (Especialidad)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-
-### Frontend
-![Bootstrap 5](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34C26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### DevOps & Herramientas
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-### Metodologías
-`Scrum` • `Agile` • `XP` • `Kanban` • `Git Flow`
-
----
-
-## 📐 Arquitectura & Patrones
-
-### Principios que aplico:
-- **SOLID principles** — Código mantenible y escalable
-- **Fat models, thin views** — Lógica en modelos o service layer
-- **DRY (Don't Repeat Yourself)** — Reutilización de código
-- **N+1 query prevention** — `select_related` / `prefetch_related` siempre
-- **Signals con cuidado** — Solo alternativas más limpias
-- **Migraciones atómicas** — Nunca datos hardcodeados
-
-### Stack preferido para nuevos proyectos:
-```
-Backend:          Python 3.10+ + Django 4.0+
-Database:         PostgreSQL 12+
-Frontend:         Bootstrap 5 + Vanilla JS
-Infra:            Linux + Nginx + SSL (Let's Encrypt)
-Version Control:  Git + GitHub Flow
-Testing:          pytest + pytest-django (70%+ coverage)
-```
-
----
-
-## 🌟 Destacados
-
-✅ **Sistemas en producción:** Autotransporte Terrestre, IGJ, Autopartes Brass
-✅ **Integraciones complejas:** RENAPER, Actas de Nacimiento, servicios externos
-✅ **Optimización de performance:** Eliminación de N+1 queries, caché estratégico
-✅ **Seguridad:** Control de acceso basado en roles (RBAC), validación en backend
-✅ **Mantenibilidad:** Código testeable, documentación técnica, arquitectura clara
-✅ **Infraestructura:** Deployment en Linux, configuración de Nginx, SSH hardening
-
----
-
-## 📊 Estadísticas GitHub
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=prussian&include_all_commits=true&count_private=true)
-
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&layout=compact&theme=prussian)
-
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cozakoo&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cozakoo&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
----
-
-## 🎓 Formación Continua
-
-- **Redes y Transmisión de Datos (IF019)** — UNPSJB (2026)
-  - OSI/ISO, TCP/IP, protocolos, administración de redes
-
-- **Ingeniería de Software (IF015)** — UNPSJB (2026)
-  - Patrones, testing, estimación ágil, arquitectura evolutiva
-
----
-
-## 🔗 Enlaces
-
-| Recurso | Link |
-|---------|------|
-| **LinkedIn** | [martin-arcos](https://linkedin.com/in/martin-arcos) |
-| **GitHub** | [cozakoo](https://github.com/cozakoo) |
-| **Portafolio** | [arcosvargas.com](https://arcosvargas.com) |
-| **Email** | [martinarcosvargas2@gmail.com](mailto:martinarcosvargas2@gmail.com) |
-
----
-
-## 🎯 Qué busco
-
-🔍 **Posición:** Senior Backend Developer | Arquitecto de Software
-📍 **Ubicación:** Puerto Madryn o 100% remoto
-💻 **Stack:** Python/Django, PostgreSQL, API REST, arquitectura escalable
-⏰ **Disponibilidad:** Inmediata
-
----
+<!--
 
 <div align="center">
-
-  **Gracias por visitar mi perfil. ¡Hablamos pronto!**
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=cozakoo&color=blue)
-
-</div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="images/marquee.svg" />
+<br />
+--> 
