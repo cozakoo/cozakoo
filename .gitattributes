@@ -1,0 +1,11 @@
+# Keep LF in the repo so the scripts behave the same on Windows and on CI.
+*.py    text eol=lf
+*.md    text eol=lf
+*.html  text eol=lf
+*.json  text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+
+*.svg   text eol=lf
+*.png   binary
+*.ico   binary
